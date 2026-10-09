@@ -1,0 +1,6 @@
+{
+  "name": "The Yacht Club Singapore - Luxury Yacht Charters & Concierge",
+  "description": "Premier Singapore yacht charter platform featuring real-time vessel availability, interactive Southern Islands nautical map, instant price calculations, AI concierge, and curated luxury fleet at ONE°15 Marina Sentosa Cove.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
